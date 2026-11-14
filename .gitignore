@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# Local environment variants may also contain credentials.
+.env.*
+!.env.example
+
+.restart.lock
+
+# Local diagnostics and publication reports
+data/server_status.json
+data/llm_probe.json
+data/route_probe.json
+data/publish_status.json
+
+.publish/

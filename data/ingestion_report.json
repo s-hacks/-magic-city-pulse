@@ -1,0 +1,18 @@
+{
+  "built_at": "2026-11-14T18:49:18.617066+00:00",
+  "local_seed_count": 10,
+  "sources": {
+    "USDA SNAP": {
+      "downloaded": 0,
+      "retained": 0,
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    "HRSA": {
+      "downloaded": 0,
+      "retained": 0,
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    }
+  },
+  "saved": 10,
+  "complete": false
+}
